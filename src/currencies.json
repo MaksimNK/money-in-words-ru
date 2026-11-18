@@ -1,0 +1,950 @@
+{
+  "BYN": {
+    "decimals": 2,
+    "major": {
+      "gender": "masculine",
+      "forms": [
+        "белорусский рубль",
+        "белорусских рубля",
+        "белорусских рублей"
+      ]
+    },
+    "minor": {
+      "gender": "feminine",
+      "forms": [
+        "копейка",
+        "копейки",
+        "копеек"
+      ]
+    }
+  },
+  "USD": {
+    "decimals": 2,
+    "major": {
+      "gender": "masculine",
+      "forms": [
+        "доллар США",
+        "доллара США",
+        "долларов США"
+      ]
+    },
+    "minor": {
+      "gender": "masculine",
+      "forms": [
+        "цент",
+        "цента",
+        "центов"
+      ]
+    }
+  },
+  "AUD": {
+    "decimals": 2,
+    "major": {
+      "gender": "masculine",
+      "forms": [
+        "австралийский доллар",
+        "австралийских доллара",
+        "австралийских долларов"
+      ]
+    },
+    "minor": {
+      "gender": "masculine",
+      "forms": [
+        "цент",
+        "цента",
+        "центов"
+      ]
+    }
+  },
+  "GBP": {
+    "decimals": 2,
+    "major": {
+      "gender": "masculine",
+      "forms": [
+        "фунт стерлингов",
+        "фунта стерлингов",
+        "фунтов стерлингов"
+      ]
+    },
+    "minor": {
+      "gender": "masculine",
+      "forms": [
+        "пенни",
+        "пенса",
+        "пенсов"
+      ]
+    }
+  },
+  "HUF": {
+    "decimals": 2,
+    "major": {
+      "gender": "masculine",
+      "forms": [
+        "венгерский форинт",
+        "венгерских форинта",
+        "венгерских форинтов"
+      ]
+    },
+    "minor": {
+      "gender": "masculine",
+      "forms": [
+        "филлер",
+        "филлера",
+        "филлеров"
+      ]
+    }
+  },
+  "DKK": {
+    "decimals": 2,
+    "major": {
+      "gender": "feminine",
+      "forms": [
+        "датская крона",
+        "датские кроны",
+        "датских крон"
+      ]
+    },
+    "minor": {
+      "gender": "masculine",
+      "forms": [
+        "эре",
+        "эре",
+        "эре"
+      ]
+    }
+  },
+  "EUR": {
+    "decimals": 2,
+    "major": {
+      "gender": "masculine",
+      "forms": [
+        "евро",
+        "евро",
+        "евро"
+      ]
+    },
+    "minor": {
+      "gender": "masculine",
+      "forms": [
+        "евроцент",
+        "евроцента",
+        "евроцентов"
+      ]
+    }
+  },
+  "ILS": {
+    "decimals": 2,
+    "major": {
+      "gender": "masculine",
+      "forms": [
+        "новый израильский шекель",
+        "новых израильских шекеля",
+        "новых израильских шекелей"
+      ]
+    },
+    "minor": {
+      "gender": "feminine",
+      "forms": [
+        "агора",
+        "агоры",
+        "агорот"
+      ]
+    }
+  },
+  "ISK": {
+    "decimals": 0,
+    "major": {
+      "gender": "feminine",
+      "forms": [
+        "исландская крона",
+        "исландские кроны",
+        "исландских крон"
+      ]
+    },
+    "minor": null
+  },
+  "CAD": {
+    "decimals": 2,
+    "major": {
+      "gender": "masculine",
+      "forms": [
+        "канадский доллар",
+        "канадских доллара",
+        "канадских долларов"
+      ]
+    },
+    "minor": {
+      "gender": "masculine",
+      "forms": [
+        "цент",
+        "цента",
+        "центов"
+      ]
+    }
+  },
+  "NZD": {
+    "decimals": 2,
+    "major": {
+      "gender": "masculine",
+      "forms": [
+        "новозеландский доллар",
+        "новозеландских доллара",
+        "новозеландских долларов"
+      ]
+    },
+    "minor": {
+      "gender": "masculine",
+      "forms": [
+        "цент",
+        "цента",
+        "центов"
+      ]
+    }
+  },
+  "NOK": {
+    "decimals": 2,
+    "major": {
+      "gender": "feminine",
+      "forms": [
+        "норвежская крона",
+        "норвежские кроны",
+        "норвежских крон"
+      ]
+    },
+    "minor": {
+      "gender": "masculine",
+      "forms": [
+        "эре",
+        "эре",
+        "эре"
+      ]
+    }
+  },
+  "PLN": {
+    "decimals": 2,
+    "major": {
+      "gender": "masculine",
+      "forms": [
+        "польский злотый",
+        "польских злотых",
+        "польских злотых"
+      ]
+    },
+    "minor": {
+      "gender": "masculine",
+      "forms": [
+        "грош",
+        "гроша",
+        "грошей"
+      ]
+    }
+  },
+  "TRY": {
+    "decimals": 2,
+    "major": {
+      "gender": "feminine",
+      "forms": [
+        "турецкая лира",
+        "турецкие лиры",
+        "турецких лир"
+      ]
+    },
+    "minor": {
+      "gender": "masculine",
+      "forms": [
+        "куруш",
+        "куруша",
+        "курушей"
+      ]
+    }
+  },
+  "CZK": {
+    "decimals": 2,
+    "major": {
+      "gender": "feminine",
+      "forms": [
+        "чешская крона",
+        "чешские кроны",
+        "чешских крон"
+      ]
+    },
+    "minor": {
+      "gender": "masculine",
+      "forms": [
+        "геллер",
+        "геллера",
+        "геллеров"
+      ]
+    }
+  },
+  "SEK": {
+    "decimals": 2,
+    "major": {
+      "gender": "feminine",
+      "forms": [
+        "шведская крона",
+        "шведские кроны",
+        "шведских крон"
+      ]
+    },
+    "minor": {
+      "gender": "masculine",
+      "forms": [
+        "эре",
+        "эре",
+        "эре"
+      ]
+    }
+  },
+  "CHF": {
+    "decimals": 2,
+    "major": {
+      "gender": "masculine",
+      "forms": [
+        "швейцарский франк",
+        "швейцарских франка",
+        "швейцарских франков"
+      ]
+    },
+    "minor": {
+      "gender": "masculine",
+      "forms": [
+        "сантим",
+        "сантима",
+        "сантимов"
+      ]
+    }
+  },
+  "JPY": {
+    "decimals": 0,
+    "major": {
+      "gender": "feminine",
+      "forms": [
+        "японская иена",
+        "японские иены",
+        "японских иен"
+      ]
+    },
+    "minor": null
+  },
+  "AZN": {
+    "decimals": 2,
+    "major": {
+      "gender": "masculine",
+      "forms": [
+        "азербайджанский манат",
+        "азербайджанских маната",
+        "азербайджанских манатов"
+      ]
+    },
+    "minor": {
+      "gender": "masculine",
+      "forms": [
+        "гяпик",
+        "гяпика",
+        "гяпиков"
+      ]
+    }
+  },
+  "ALL": {
+    "decimals": 2,
+    "major": {
+      "gender": "masculine",
+      "forms": [
+        "албанский лек",
+        "албанских лека",
+        "албанских леков"
+      ]
+    },
+    "minor": {
+      "gender": "feminine",
+      "forms": [
+        "киндарка",
+        "киндарки",
+        "киндарок"
+      ]
+    }
+  },
+  "DZD": {
+    "decimals": 2,
+    "major": {
+      "gender": "masculine",
+      "forms": [
+        "алжирский динар",
+        "алжирских динара",
+        "алжирских динаров"
+      ]
+    },
+    "minor": {
+      "gender": "masculine",
+      "forms": [
+        "сантим",
+        "сантима",
+        "сантимов"
+      ]
+    }
+  },
+  "ARS": {
+    "decimals": 2,
+    "major": {
+      "gender": "neuter",
+      "forms": [
+        "аргентинское песо",
+        "аргентинских песо",
+        "аргентинских песо"
+      ]
+    },
+    "minor": {
+      "gender": "masculine",
+      "forms": [
+        "сентаво",
+        "сентаво",
+        "сентаво"
+      ]
+    }
+  },
+  "AMD": {
+    "decimals": 2,
+    "major": {
+      "gender": "masculine",
+      "forms": [
+        "армянский драм",
+        "армянских драма",
+        "армянских драмов"
+      ]
+    },
+    "minor": {
+      "gender": "masculine",
+      "forms": [
+        "лум",
+        "лума",
+        "лумов"
+      ]
+    }
+  },
+  "AFN": {
+    "decimals": 2,
+    "major": {
+      "gender": "masculine",
+      "forms": [
+        "афгани",
+        "афгани",
+        "афгани"
+      ]
+    },
+    "minor": {
+      "gender": "masculine",
+      "forms": [
+        "пул",
+        "пула",
+        "пулов"
+      ]
+    }
+  },
+  "BGN": {
+    "decimals": 2,
+    "major": {
+      "gender": "masculine",
+      "forms": [
+        "болгарский лев",
+        "болгарских лева",
+        "болгарских левов"
+      ]
+    },
+    "minor": {
+      "gender": "feminine",
+      "forms": [
+        "стотинка",
+        "стотинки",
+        "стотинок"
+      ]
+    }
+  },
+  "BRL": {
+    "decimals": 2,
+    "major": {
+      "gender": "masculine",
+      "forms": [
+        "бразильский реал",
+        "бразильских реала",
+        "бразильских реалов"
+      ]
+    },
+    "minor": {
+      "gender": "masculine",
+      "forms": [
+        "сентаво",
+        "сентаво",
+        "сентаво"
+      ]
+    }
+  },
+  "VES": {
+    "decimals": 2,
+    "major": {
+      "gender": "masculine",
+      "forms": [
+        "венесуэльский боливар",
+        "венесуэльских боливара",
+        "венесуэльских боливаров"
+      ]
+    },
+    "minor": {
+      "gender": "masculine",
+      "forms": [
+        "сентимо",
+        "сентимо",
+        "сентимо"
+      ]
+    }
+  },
+  "VND": {
+    "decimals": 0,
+    "major": {
+      "gender": "masculine",
+      "forms": [
+        "вьетнамский донг",
+        "вьетнамских донга",
+        "вьетнамских донгов"
+      ]
+    },
+    "minor": null
+  },
+  "HKD": {
+    "decimals": 2,
+    "major": {
+      "gender": "masculine",
+      "forms": [
+        "гонконгский доллар",
+        "гонконгских доллара",
+        "гонконгских долларов"
+      ]
+    },
+    "minor": {
+      "gender": "masculine",
+      "forms": [
+        "цент",
+        "цента",
+        "центов"
+      ]
+    }
+  },
+  "GEL": {
+    "decimals": 2,
+    "major": {
+      "gender": "masculine",
+      "forms": [
+        "грузинский лари",
+        "грузинских лари",
+        "грузинских лари"
+      ]
+    },
+    "minor": {
+      "gender": "masculine",
+      "forms": [
+        "тетри",
+        "тетри",
+        "тетри"
+      ]
+    }
+  },
+  "AED": {
+    "decimals": 2,
+    "major": {
+      "gender": "masculine",
+      "forms": [
+        "дирхам ОАЭ",
+        "дирхама ОАЭ",
+        "дирхамов ОАЭ"
+      ]
+    },
+    "minor": {
+      "gender": "masculine",
+      "forms": [
+        "филс",
+        "филса",
+        "филсов"
+      ]
+    }
+  },
+  "EGP": {
+    "decimals": 2,
+    "major": {
+      "gender": "masculine",
+      "forms": [
+        "египетский фунт",
+        "египетских фунта",
+        "египетских фунтов"
+      ]
+    },
+    "minor": {
+      "gender": "masculine",
+      "forms": [
+        "пиастр",
+        "пиастра",
+        "пиастров"
+      ]
+    }
+  },
+  "INR": {
+    "decimals": 2,
+    "major": {
+      "gender": "feminine",
+      "forms": [
+        "индийская рупия",
+        "индийские рупии",
+        "индийских рупий"
+      ]
+    },
+    "minor": {
+      "gender": "feminine",
+      "forms": [
+        "пайса",
+        "пайсы",
+        "пайс"
+      ]
+    }
+  },
+  "IDR": {
+    "decimals": 2,
+    "major": {
+      "gender": "feminine",
+      "forms": [
+        "индонезийская рупия",
+        "индонезийские рупии",
+        "индонезийских рупий"
+      ]
+    },
+    "minor": {
+      "gender": "masculine",
+      "forms": [
+        "сен",
+        "сена",
+        "сенов"
+      ]
+    }
+  },
+  "JOD": {
+    "decimals": 3,
+    "major": {
+      "gender": "masculine",
+      "forms": [
+        "иорданский динар",
+        "иорданских динара",
+        "иорданских динаров"
+      ]
+    },
+    "minor": {
+      "gender": "masculine",
+      "forms": [
+        "филс",
+        "филса",
+        "филсов"
+      ]
+    }
+  },
+  "IQD": {
+    "decimals": 3,
+    "major": {
+      "gender": "masculine",
+      "forms": [
+        "иракский динар",
+        "иракских динара",
+        "иракских динаров"
+      ]
+    },
+    "minor": {
+      "gender": "masculine",
+      "forms": [
+        "филс",
+        "филса",
+        "филсов"
+      ]
+    }
+  },
+  "IRR": {
+    "decimals": 2,
+    "major": {
+      "gender": "masculine",
+      "forms": [
+        "иранский риал",
+        "иранских риала",
+        "иранских риалов"
+      ]
+    },
+    "minor": {
+      "gender": "masculine",
+      "forms": [
+        "динар",
+        "динара",
+        "динаров"
+      ]
+    }
+  },
+  "KZT": {
+    "decimals": 2,
+    "major": {
+      "gender": "masculine",
+      "forms": [
+        "казахстанский тенге",
+        "казахстанских тенге",
+        "казахстанских тенге"
+      ]
+    },
+    "minor": {
+      "gender": "masculine",
+      "forms": [
+        "тиын",
+        "тиына",
+        "тиынов"
+      ]
+    }
+  },
+  "KES": {
+    "decimals": 2,
+    "major": {
+      "gender": "masculine",
+      "forms": [
+        "кенийский шиллинг",
+        "кенийских шиллинга",
+        "кенийских шиллингов"
+      ]
+    },
+    "minor": {
+      "gender": "masculine",
+      "forms": [
+        "цент",
+        "цента",
+        "центов"
+      ]
+    }
+  },
+  "CNY": {
+    "decimals": 2,
+    "major": {
+      "gender": "masculine",
+      "forms": [
+        "китайский юань",
+        "китайских юаня",
+        "китайских юаней"
+      ]
+    },
+    "minor": {
+      "gender": "masculine",
+      "forms": [
+        "фэнь",
+        "фэня",
+        "фэней"
+      ]
+    }
+  },
+  "COP": {
+    "decimals": 2,
+    "major": {
+      "gender": "neuter",
+      "forms": [
+        "колумбийское песо",
+        "колумбийских песо",
+        "колумбийских песо"
+      ]
+    },
+    "minor": {
+      "gender": "masculine",
+      "forms": [
+        "сентаво",
+        "сентаво",
+        "сентаво"
+      ]
+    }
+  },
+  "KWD": {
+    "decimals": 3,
+    "major": {
+      "gender": "masculine",
+      "forms": [
+        "кувейтский динар",
+        "кувейтских динара",
+        "кувейтских динаров"
+      ]
+    },
+    "minor": {
+      "gender": "masculine",
+      "forms": [
+        "филс",
+        "филса",
+        "филсов"
+      ]
+    }
+  },
+  "KGS": {
+    "decimals": 2,
+    "major": {
+      "gender": "masculine",
+      "forms": [
+        "киргизский сом",
+        "киргизских сома",
+        "киргизских сомов"
+      ]
+    },
+    "minor": {
+      "gender": "masculine",
+      "forms": [
+        "тыйын",
+        "тыйына",
+        "тыйынов"
+      ]
+    }
+  },
+  "LAK": {
+    "decimals": 2,
+    "major": {
+      "gender": "masculine",
+      "forms": [
+        "лаосский кип",
+        "лаосских кипа",
+        "лаосских кипов"
+      ]
+    },
+    "minor": {
+      "gender": "masculine",
+      "forms": [
+        "ат",
+        "ата",
+        "атов"
+      ]
+    }
+  },
+  "LBP": {
+    "decimals": 2,
+    "major": {
+      "gender": "masculine",
+      "forms": [
+        "ливанский фунт",
+        "ливанских фунта",
+        "ливанских фунтов"
+      ]
+    },
+    "minor": {
+      "gender": "masculine",
+      "forms": [
+        "пиастр",
+        "пиастра",
+        "пиастров"
+      ]
+    }
+  },
+  "LTL": {
+    "decimals": 2,
+    "major": {
+      "gender": "masculine",
+      "forms": [
+        "литовский лит",
+        "литовских лита",
+        "литовских литов"
+      ]
+    },
+    "minor": {
+      "gender": "masculine",
+      "forms": [
+        "цент",
+        "цента",
+        "центов"
+      ]
+    }
+  },
+  "MKD": {
+    "decimals": 2,
+    "major": {
+      "gender": "masculine",
+      "forms": [
+        "македонский денар",
+        "македонских денара",
+        "македонских денаров"
+      ]
+    },
+    "minor": {
+      "gender": "masculine",
+      "forms": [
+        "дени",
+        "дени",
+        "дени"
+      ]
+    }
+  },
+  "MYR": {
+    "decimals": 2,
+    "major": {
+      "gender": "masculine",
+      "forms": [
+        "малайзийский ринггит",
+        "малайзийских ринггита",
+        "малайзийских ринггитов"
+      ]
+    },
+    "minor": {
+      "gender": "masculine",
+      "forms": [
+        "сен",
+        "сена",
+        "сенов"
+      ]
+    }
+  },
+  "MAD": {
+    "decimals": 2,
+    "major": {
+      "gender": "masculine",
+      "forms": [
+        "марокканский дирхам",
+        "марокканских дирхама",
+        "марокканских дирхамов"
+      ]
+    },
+    "minor": {
+      "gender": "masculine",
+      "forms": [
+        "сантим",
+        "сантима",
+        "сантимов"
+      ]
+    }
+  },
+  "MXN": {
+    "decimals": 2,
+    "major": {
+      "gender": "neuter",
+      "forms": [
+        "мексиканское песо",
+        "мексиканских песо",
+        "мексиканских песо"
+      ]
+    },
+    "minor": {
+      "gender": "masculine",
+      "forms": [
+        "сентаво",
+        "сентаво",
+        "сентаво"
+      ]
+    }
+  },
+  "RUB": {
+    "decimals": 2,
+    "major": {
+      "gender": "masculine",
+      "forms": [
+        "российский рубль",
+        "российских рубля",
+        "российских рублей"
+      ]
+    },
+    "minor": {
+      "gender": "feminine",
+      "forms": [
+        "копейка",
+        "копейки",
+        "копеек"
+      ]
+    }
+  }
+}
